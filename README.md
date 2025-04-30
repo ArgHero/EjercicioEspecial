@@ -13,7 +13,7 @@ Favor de leer los pasos a seguir en el archivo Instrucciones.md
 | Dato | Descripción |
 | ------ | ------ |
 | Cohorte | **CH53**|
-| Fecha | [plugins/github/README.md][PlGh] |
+| Fecha | 30 de Abril del 2025 |
 | Hora | 9:46 _am_ |
 | Nombre | Saul Omar Arguello Hernandez |
 
