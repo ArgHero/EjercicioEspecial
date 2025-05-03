@@ -17,4 +17,9 @@ Favor de leer los pasos a seguir en el archivo Instrucciones.md
 | Hora | 9:46 _am_ |
 | Nombre | Saul Omar Arguello Hernandez |
 
+## Enlace a la página principal
+
+[Página principal](https://arghero.github.io/EjercicioEspecial/html/index.html)
+
 ![chamba](https://i.pinimg.com/736x/f6/29/49/f629496f7020dcd1de83945472c879e6.jpg)
+
