@@ -35,17 +35,17 @@
 
 ### Parte 3
 
-1. Crear un nuevo archivo **index.html** en el mismo directorio que **products.html**
+1. *Crear un nuevo archivo **index.html** en el mismo directorio que **products.html**
 
-2. Escribir un encabezado que indique que es un ejercicio evaluado
+2. *Escribir un encabezado que indique que es un ejercicio evaluado
 
-3. Escribir un párrafo que describa brevemente la información de **products.html**
+3. *Escribir un párrafo que describa brevemente la información de **products.html**
 
-4. Crear un enlace que abra **products.html** en una nueva ventana
+4. *Crear un enlace que abra **products.html** en una nueva ventana
 
-5. Eliminar el subrayado y color del enlace con una hoja de estilos
+5. *Eliminar el subrayado y color del enlace con una hoja de estilos
 
-6. Debes guardar los cambios en el repositorio local y posteriormente subirlos a Github (Commit No. 3)
+6. *Debes guardar los cambios en el repositorio local y posteriormente subirlos a Github (Commit No. 3)
 
 
 

@@ -34,7 +34,7 @@ function editCard(card,content){
 function createImage(content) {
   let img = document.createElement("img");
   img.className = "bd-placeholder-img card-img-top";
-  img.width = "100%";
+  //img.width = "50%";
   img.src = content.images[1]||"https://http.cat/images/404.jpg";
   img.alt = content.slug;
   img.referrerPolicy = "no-referrer";
